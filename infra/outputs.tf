@@ -1,3 +1,4 @@
+# Outputs for ECR and EKS Cluster Information
 output "ecr_repo_url" {
   value = aws_ecr_repository.app.repository_url
 }

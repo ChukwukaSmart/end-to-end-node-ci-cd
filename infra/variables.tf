@@ -1,3 +1,4 @@
+# Terraform Variables for AWS Region and Availability Zones
 variable "aws_region" {
   default = "us-east-1"
 }
